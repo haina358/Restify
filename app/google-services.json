@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970028323001",
+    "firebase_url": "https://restify-585b2.firebaseio.com",
+    "project_id": "restify-585b2",
+    "storage_bucket": "restify-585b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970028323001:android:781e30c99df7ee5b",
+        "android_client_info": {
+          "package_name": "com.example.hamid.restify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970028323001-obva5992cfa6p1nmhp5717rjv268te75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hamid.restify",
+            "certificate_hash": "b4aee192af2f7b7ef8be8b5ff0d42d9152f66a5c"
+          }
+        },
+        {
+          "client_id": "970028323001-4chdkd4uavits02htl2p5b9b7eb7r4au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXX8k3_h1dO6gMr3r8q4uNE0MO57wEEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970028323001-4chdkd4uavits02htl2p5b9b7eb7r4au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
